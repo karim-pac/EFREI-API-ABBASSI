@@ -32,3 +32,31 @@ body{
     margin: 0 auto;
     width: 500px;
 }
+
+.zizou{
+    display: block;
+    margin: 0 auto;
+    width: 2000px;
+}
+
+.callme{
+    display: block;
+    margin: 0 auto;
+    width: 2000px;
+}
+
+.Quizz{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(5, 37, 218);
+    padding: 4px;
+    color: rgb(255, 255, 255);
+}
+
+.Quizz2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;  
+}
